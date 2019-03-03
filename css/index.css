@@ -1,0 +1,73 @@
+.form-div{
+  text-align: center;
+}
+
+.text-field {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.tf {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.login {
+  font-size:1.5em; 
+  color:#525252;
+  text-align: center;
+}
+
+.link{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.jumbo {
+  margin-top: 100px;
+  background-color: #5f818c66;
+}
+
+.btn1 {
+  margin-top: 30px;
+}
+
+.see-more {
+  cursor: pointer;
+  margin-left: 65%;
+  text-decoration: none;
+}
+
+.see-more:hover {
+  text-decoration: none;
+}
+
+.container1 {
+  margin-top: 80px;
+}
+
+
+.c1{
+  padding: 6px;
+  border: 1px solid lightgray;
+    float: left;
+    margin-left: 5pc;
+    width: 22.4%;
+}
+
+.c2{
+  padding: 6px;
+    border: 1px solid lightgray;
+    float: right;
+    margin-right: 6pc;
+    width: 22%;
+}
+
+.c3{
+  padding: 6px;
+    border: 1px solid lightgray;
+    float: right;
+    margin-right: 7.5pc;
+    width: 22%;
+}
